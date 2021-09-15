@@ -1,1 +1,1 @@
-MONGO_URL=mongodb+srv://nicolascastro83:4AYHVCJ3206AjBzr@cluster0.uictp.mongodb.net/Cluster0?retryWrites=true&w=majority
+worker: nodemon start
